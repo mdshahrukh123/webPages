@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>DIPLOMA</title>
+<body>
+<a href=home.html>HOME</a>
+<h2><ul> Diploma helo every one</h2>
+<li>Polotechnic</li>
+</body>
+</html>
